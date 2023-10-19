@@ -52,6 +52,7 @@ include('conexao.php');
 
   </section>
   <!--login e cadastro-->
+  
   <?php
   include('loginCad.php');
   ?>
