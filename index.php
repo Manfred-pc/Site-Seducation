@@ -42,12 +42,6 @@ include('conexao.php');
     <img src="img/artigotres.png" alt="Artigo 3" id="img-um" width="340px" height="320px" border-radius="55%" 
     style="border-radius: 15px; margin-left: 662px;" />
 
-    <!-- img src="img/artigoquatro.png" alt="Artigo 1" id="img-um" width="340px" height="320px" border-radius="55%" 
-    style="border-radius: 15px; margin-left: 980px;" />
-
-    <img src="img/artigocinco.png" alt="Artigo 1" id="img-um" width="340px" height="320px" border-radius="55%" 
-    style="border-radius: 15px; margin-left: 980px;" -->
-
     <img src="img/artigoseis.png" alt="Artigo 4" id="img-um" width="340px" height="320px" border-radius="55%" 
     style="border-radius: 15px; margin-left: 980px;" />
 
